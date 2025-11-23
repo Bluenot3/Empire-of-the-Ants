@@ -1,0 +1,5 @@
+{
+  "name": "Empire of the Ants",
+  "description": "A detailed, interactive ant colony simulation where you manage resources, excavate tunnels, command armies, and consult an AI Queen for guidance.",
+  "requestFramePermissions": []
+}
